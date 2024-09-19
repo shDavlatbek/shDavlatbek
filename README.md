@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://github.com/shDavlatbek/shDavlatbek/blob/main/GIF/yoriichi-tsugikuni-from-kimetsu-no-yaiba_800.gif?raw=true" alt="Jonah Lawrence" width="100%"/></a>
+    <img src="https://github.com/shDavlatbek/shDavlatbek/blob/main/GIF/yoriichi-tsugikuni-from-kimetsu-no-yaiba_800.gif?raw=true" alt="Jonah Lawrence" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Davlatbek</h1>
@@ -35,18 +34,18 @@
       <a href="https://github.com/search?q=user%3AshDavlatbek+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AshDavlatbek+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-0C4B33.svg?logo=django&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/JQuery-78cff5.svg?logo=jquery&logoColor=white"></a>
-      <a href"#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <img alt="Django" src="https://img.shields.io/badge/Django-0C4B33.svg?logo=django&logoColor=white">
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+      <img alt="JQuery" src="https://img.shields.io/badge/JQuery-78cff5.svg?logo=jquery&logoColor=white">
+      <img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white">
+      <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
+      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
   </p>
 
   <h3>🗄️ Databases and Deployment</h3>
