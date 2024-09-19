@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **FastAPI, SQLAlchemy, Vue.js ect...**
 
-- 👨‍💻 All of my projects are available at [github.com](github.com/shDavlatbek)
+- 👨‍💻 All of my projects are available at [github.com](https://github.com/shDavlatbek)
 
 - 💬 Ask me about **Python, Django, Javascript, JQuery...**
 
@@ -23,7 +23,7 @@
 
 <br/>
 
-<p><img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/Attention-orange.svg?logo=alert-triangle&logoSource=feather"> My Old GitHub Account <a href="https://github.com/GFmatrix" target="blank_">GFmatrix</a></p>
+<p><img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/Attention-orange.svg?logo=alert-triangle&logoSource=feather"> My Old GitHub Account <a href="https://github.com/GFmatrix" target="blank">GFmatrix</a></p>
 
 <br/>
 
