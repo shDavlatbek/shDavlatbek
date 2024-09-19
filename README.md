@@ -79,7 +79,7 @@
 
 <a align="right" href="https://t.me/shDavlatbek" target="blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="shDavlatbek" height="30" width="40" /></a>
 <a align="right" href="https://linkedin.com/in/shdavlatbek" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shdavlatbek" height="30" width="40" /></a>
-<a align="right" href="https://instagram.com/shDavlatbek" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shDavlatbek" height="30" width="40" /></a>
+<a align="right" href="https://instagram.com/sh.davlatbek" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shDavlatbek" height="30" width="40" /></a>
 
 <br/>
 <p></p>
